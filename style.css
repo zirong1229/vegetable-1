@@ -84,7 +84,7 @@ body {
     height: 44px;
     border-radius: 3px;
     background-color: #778A50;
-    color: #F7FBDA;
+    color: #EDF2C5;
     margin-top: 10px;
     font-size: 16px;
     font-weight: 900;
@@ -94,17 +94,17 @@ body {
 
 .nav a {
     text-decoration: none;
-    color: #F7FBDA;
+    color: #EDF2C5;
     padding: 0 20px;
     font-weight: 900;
     font-size: 16px;
-    line-height: 44px;
+    line-height: 24px;
 }
 
 .nav a:hover {
-    background-color: #F7FBDA;
+    background-color: #EDF2C5;
     color: #778A50;
-    border-radius: 0px;
+    border-radius: 3px;
     transition: background-color 0.3s, color 0.3s;
 }
 
